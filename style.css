@@ -5,6 +5,7 @@
   }
   
   .calculator {
+    width: 40%;
     padding: 20px;
     font-family: 'Roboto';
     font-size: 20px;
